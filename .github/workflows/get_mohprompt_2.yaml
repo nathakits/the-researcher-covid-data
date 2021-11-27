@@ -1,4 +1,4 @@
-name: moh-prompt
+name: moh-prompt 2
 on:
   schedule:
     - cron: '0 12 * * *' #06 Hour UTC = 19 Hour GMT+7
