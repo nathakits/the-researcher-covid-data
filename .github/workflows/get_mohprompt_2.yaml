@@ -203,7 +203,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: vaccination-combined
-          path: dataset/*
+          path: dataset/vaccination/*
 
   commit-files-to-repo:
     needs: [combine-moh-prompt]
