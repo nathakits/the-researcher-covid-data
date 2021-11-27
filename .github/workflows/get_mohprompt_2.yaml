@@ -203,7 +203,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: vaccination-combined
-          path: dataset/vaccination/*
+          path: dataset/*
 
   commit-files-to-repo:
     needs: [combine-moh-prompt]
@@ -215,12 +215,12 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: vaccination
-          path: dataset/vaccination
+          path: dataset/vaccination/
       - name: Download vaccination-combined Artifacts
         uses: actions/download-artifact@v2
         with:
           name: vaccination-combined
-          path: dataset/vaccination
+          path: dataset/vaccination/
       - name: Display structure of downloaded files
         run: ls -R
       - name: Commit and Push JSON
