@@ -2430,7 +2430,7 @@
     "total_doses":88668173
   },
   {
-    "date": "2021-11-21",
+    "date":"2021-11-21",
     "daily_vaccinations":321062,
     "data_anomaly":null,
     "first_dose":46718014,
@@ -2439,7 +2439,7 @@
     "total_doses":88989235
   },
   {
-    "date": "2021-11-22",
+    "date":"2021-11-22",
     "daily_vaccinations":347556,
     "data_anomaly":null,
     "first_dose":46836876,
@@ -2448,7 +2448,7 @@
     "total_doses":89336791
   },
   {
-    "date": "2021-11-23",
+    "date":"2021-11-23",
     "daily_vaccinations":557392,
     "data_anomaly":null,
     "first_dose":47034024,
@@ -2457,7 +2457,7 @@
     "total_doses":89894183
   },
   {
-    "date": "2021-11-24",
+    "date":"2021-11-24",
     "daily_vaccinations":574772,
     "data_anomaly":null,
     "first_dose":47233526,
