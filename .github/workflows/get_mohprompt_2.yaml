@@ -1,4 +1,4 @@
-name: moh-prompt 2
+name: moh-prompt
 on:
   schedule:
     - cron: '0 12 * * *' #06 Hour UTC = 19 Hour GMT+7
@@ -178,7 +178,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: vaccination
-          path: dataset/vaccination/
+          path: wiki/vaccination
       - name: Setup Python Environment
         uses: actions/setup-python@v2.2.2
       - name: Cache Python Environment
@@ -215,12 +215,12 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: vaccination
-          path: dataset/vaccination/
+          path: wiki/vaccination/
       - name: Download vaccination-combined Artifacts
         uses: actions/download-artifact@v2
         with:
           name: vaccination-combined
-          path: dataset/vaccination/
+          path: wiki/vaccination/
       - name: Display structure of downloaded files
         run: ls -R
       - name: Commit and Push JSON
