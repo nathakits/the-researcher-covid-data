@@ -18,7 +18,7 @@ if __name__ == '__main__':
         2: "2nd",
         3: "3rd",
     }
-    vaccination_data_dir = "../dataset/vaccination/"
+    vaccination_data_dir = "../wiki/vaccination/"
     first_dose = json_load(os.path.join(vaccination_data_dir, "1st-dose-provincial-vaccination.json"))
     second_dose = json_load(os.path.join(vaccination_data_dir, "2nd-dose-provincial-vaccination.json"))
     third_dose = json_load(os.path.join(vaccination_data_dir, "3rd-dose-provincial-vaccination.json"))

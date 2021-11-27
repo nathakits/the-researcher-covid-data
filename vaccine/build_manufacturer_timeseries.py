@@ -52,7 +52,7 @@ def build_manufacturer_timeseries(manufacturer_data: dict) -> pd.DataFrame:
 
 
 if __name__ == '__main__':
-    manufacturer_data = json_load("../dataset/vaccination/provincial-vaccination-by-manufacturer.json")
+    manufacturer_data = json_load("../wiki/vaccination/provincial-vaccination-by-manufacturer.json")
     print(manufacturer_data["update_date"])
 
     manufacturer_timeseries = build_manufacturer_timeseries(manufacturer_data)
