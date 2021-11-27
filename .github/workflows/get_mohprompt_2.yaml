@@ -178,7 +178,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: vaccination
-          path: wiki/vaccination
+          path: dataset/vaccination
       - name: Setup Python Environment
         uses: actions/setup-python@v2.2.2
       - name: Cache Python Environment
@@ -205,7 +205,7 @@ jobs:
           name: vaccination-combined
           path: dataset/*
 
-  commit-files-to-wiki:
+  commit-files-to-repo:
     needs: [combine-moh-prompt]
     runs-on: ubuntu-latest
     steps:
