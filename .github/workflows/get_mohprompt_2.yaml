@@ -178,7 +178,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: vaccination
-          path: dataset/vaccination
+          path: dataset/vaccination/
       - name: Setup Python Environment
         uses: actions/setup-python@v2.2.2
       - name: Cache Python Environment
