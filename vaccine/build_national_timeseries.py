@@ -1,7 +1,8 @@
 import pandas as pd
 import json
 
-MAIN_URL = "https://raw.githubusercontent.com/wiki/porames/the-researcher-covid-data"
+# MAIN_URL = "https://raw.githubusercontent.com/wiki/porames/the-researcher-covid-data"
+MAIN_URL = "https://raw.githubusercontent.com/nathakits/the-researcher-covid-data/master/dataset/vaccination/"
 
 
 def json_load(file_path: str) -> dict:
@@ -23,12 +24,12 @@ def calculate_national_sum_today(data: dict) -> pd.DataFrame:
 
 if __name__ == "__main__":
     # Parse today scraped data
-    moh_prompt_data = json_load("../dataset/provincial-vaccination.json")
+    moh_prompt_data = json_load("./dataset/vaccination/provincial-vaccination.json")
     print(moh_prompt_data["update_date"])
     today_data = calculate_national_sum_today(moh_prompt_data)
 
     # Get Historical Data
-    vaccination_timeseries = pd.read_json(MAIN_URL + "/vaccination/national-vaccination-timeseries.json")
+    vaccination_timeseries = pd.read_json(MAIN_URL + "national-vaccination-timeseries.json")
     vaccination_timeseries["date"] = pd.to_datetime(vaccination_timeseries["date"])
 
     # Add today data to timeseries

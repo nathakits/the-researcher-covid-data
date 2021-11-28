@@ -1,0 +1,775 @@
+{
+  "update_date": "2021-11-28T12:22",
+  "data": [
+    {
+      "total_doses": 17862274,
+      "province": "กรุงเทพมหานคร",
+      "AstraZeneca": 11746852,
+      "Sinovac": 2544737,
+      "Sinopharm": 2332404,
+      "Pfizer": 1031150,
+      "Moderna": "204167",
+      "Johnson & Johnson": 2293
+    },
+    {
+      "total_doses": 2966211,
+      "province": "สมุทรปราการ",
+      "AstraZeneca": 1287536,
+      "Sinovac": 476423,
+      "Sinopharm": 976632,
+      "Pfizer": 211200,
+      "Moderna": "14418",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 2155415,
+      "province": "นนทบุรี",
+      "AstraZeneca": 1035958,
+      "Sinovac": 573492,
+      "Sinopharm": 215908,
+      "Pfizer": 303376,
+      "Moderna": "26680",
+      "Johnson & Johnson": 1
+    },
+    {
+      "total_doses": 2385391,
+      "province": "ปทุมธานี",
+      "AstraZeneca": 789518,
+      "Sinovac": 293768,
+      "Sinopharm": 1127398,
+      "Pfizer": 162230,
+      "Moderna": "12477",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1184206,
+      "province": "พระนครศรีอยุธยา",
+      "AstraZeneca": 402583,
+      "Sinovac": 216589,
+      "Sinopharm": 399149,
+      "Pfizer": 158537,
+      "Moderna": "7348",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 282275,
+      "province": "อ่างทอง",
+      "AstraZeneca": 123725,
+      "Sinovac": 91800,
+      "Sinopharm": 19208,
+      "Pfizer": 44716,
+      "Moderna": "2826",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 745517,
+      "province": "ลพบุรี",
+      "AstraZeneca": 273056,
+      "Sinovac": 226448,
+      "Sinopharm": 147105,
+      "Pfizer": 97192,
+      "Moderna": "1716",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 235074,
+      "province": "สิงห์บุรี",
+      "AstraZeneca": 89994,
+      "Sinovac": 81559,
+      "Sinopharm": 26123,
+      "Pfizer": 36848,
+      "Moderna": "550",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 323445,
+      "province": "ชัยนาท",
+      "AstraZeneca": 112624,
+      "Sinovac": 121415,
+      "Sinopharm": 50848,
+      "Pfizer": 38414,
+      "Moderna": "144",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 889651,
+      "province": "สระบุรี",
+      "AstraZeneca": 251598,
+      "Sinovac": 224831,
+      "Sinopharm": 310014,
+      "Pfizer": 89665,
+      "Moderna": "13543",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 3612652,
+      "province": "ชลบุรี",
+      "AstraZeneca": 1289828,
+      "Sinovac": 759542,
+      "Sinopharm": 1195070,
+      "Pfizer": 358114,
+      "Moderna": "8761",
+      "Johnson & Johnson": 1337
+    },
+    {
+      "total_doses": 1335499,
+      "province": "ระยอง",
+      "AstraZeneca": 522499,
+      "Sinovac": 381576,
+      "Sinopharm": 331890,
+      "Pfizer": 96447,
+      "Moderna": "3087",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 728915,
+      "province": "จันทบุรี",
+      "AstraZeneca": 302754,
+      "Sinovac": 265282,
+      "Sinopharm": 79785,
+      "Pfizer": 78763,
+      "Moderna": "2331",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 312132,
+      "province": "ตราด",
+      "AstraZeneca": 116144,
+      "Sinovac": 102378,
+      "Sinopharm": 61918,
+      "Pfizer": 31692,
+      "Moderna": 0,
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1155704,
+      "province": "ฉะเชิงเทรา",
+      "AstraZeneca": 593642,
+      "Sinovac": 264481,
+      "Sinopharm": 149154,
+      "Pfizer": 136057,
+      "Moderna": "12370",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 654852,
+      "province": "ปราจีนบุรี",
+      "AstraZeneca": 198463,
+      "Sinovac": 193360,
+      "Sinopharm": 188890,
+      "Pfizer": 71048,
+      "Moderna": "3091",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 280953,
+      "province": "นครนายก",
+      "AstraZeneca": 111179,
+      "Sinovac": 89791,
+      "Sinopharm": 38550,
+      "Pfizer": 40163,
+      "Moderna": "1270",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 539752,
+      "province": "สระแก้ว",
+      "AstraZeneca": 253947,
+      "Sinovac": 207619,
+      "Sinopharm": 7241,
+      "Pfizer": 69610,
+      "Moderna": "1335",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 938795,
+      "province": "ราชบุรี",
+      "AstraZeneca": 362386,
+      "Sinovac": 299058,
+      "Sinopharm": 166864,
+      "Pfizer": 108041,
+      "Moderna": "2446",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 910516,
+      "province": "กาญจนบุรี",
+      "AstraZeneca": 249661,
+      "Sinovac": 243501,
+      "Sinopharm": 322917,
+      "Pfizer": 94273,
+      "Moderna": "164",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 847021,
+      "province": "สุพรรณบุรี",
+      "AstraZeneca": 329237,
+      "Sinovac": 286524,
+      "Sinopharm": 87893,
+      "Pfizer": 141401,
+      "Moderna": "1966",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1225312,
+      "province": "นครปฐม",
+      "AstraZeneca": 539779,
+      "Sinovac": 272081,
+      "Sinopharm": 232746,
+      "Pfizer": 179939,
+      "Moderna": "767",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1654186,
+      "province": "สมุทรสาคร",
+      "AstraZeneca": 740954,
+      "Sinovac": 467432,
+      "Sinopharm": 357160,
+      "Pfizer": 85599,
+      "Moderna": "3040",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 198369,
+      "province": "สมุทรสงคราม",
+      "AstraZeneca": 76049,
+      "Sinovac": 61871,
+      "Sinopharm": 38584,
+      "Pfizer": 21636,
+      "Moderna": "228",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 653455,
+      "province": "เพชรบุรี",
+      "AstraZeneca": 304362,
+      "Sinovac": 204353,
+      "Sinopharm": 82116,
+      "Pfizer": 62100,
+      "Moderna": "524",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 753285,
+      "province": "ประจวบคีรีขันธ์",
+      "AstraZeneca": 263139,
+      "Sinovac": 239709,
+      "Sinopharm": 171804,
+      "Pfizer": 77347,
+      "Moderna": "728",
+      "Johnson & Johnson": 558
+    },
+    {
+      "total_doses": 2589498,
+      "province": "เชียงใหม่",
+      "AstraZeneca": 1121740,
+      "Sinovac": 800116,
+      "Sinopharm": 433990,
+      "Pfizer": 220846,
+      "Moderna": "11961",
+      "Johnson & Johnson": 747
+    },
+    {
+      "total_doses": 530442,
+      "province": "ลำพูน",
+      "AstraZeneca": 175907,
+      "Sinovac": 151725,
+      "Sinopharm": 155557,
+      "Pfizer": 44641,
+      "Moderna": "2612",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 773065,
+      "province": "ลำปาง",
+      "AstraZeneca": 295633,
+      "Sinovac": 254571,
+      "Sinopharm": 141539,
+      "Pfizer": 80079,
+      "Moderna": "1243",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 514967,
+      "province": "อุตรดิตถ์",
+      "AstraZeneca": 226008,
+      "Sinovac": 203123,
+      "Sinopharm": 22912,
+      "Pfizer": 60787,
+      "Moderna": "2137",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 433963,
+      "province": "แพร่",
+      "AstraZeneca": 187043,
+      "Sinovac": 158280,
+      "Sinopharm": 39106,
+      "Pfizer": 48404,
+      "Moderna": "1130",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 504396,
+      "province": "น่าน",
+      "AstraZeneca": 232313,
+      "Sinovac": 183278,
+      "Sinopharm": 35485,
+      "Pfizer": 53119,
+      "Moderna": "201",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 534792,
+      "province": "พะเยา",
+      "AstraZeneca": 229618,
+      "Sinovac": 222782,
+      "Sinopharm": 20279,
+      "Pfizer": 60972,
+      "Moderna": "1141",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1392464,
+      "province": "เชียงราย",
+      "AstraZeneca": 565290,
+      "Sinovac": 455323,
+      "Sinopharm": 222386,
+      "Pfizer": 137627,
+      "Moderna": "11824",
+      "Johnson & Johnson": 14
+    },
+    {
+      "total_doses": 219164,
+      "province": "แม่ฮ่องสอน",
+      "AstraZeneca": 88471,
+      "Sinovac": 86984,
+      "Sinopharm": 17236,
+      "Pfizer": 26473,
+      "Moderna": 0,
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1133767,
+      "province": "นครสวรรค์",
+      "AstraZeneca": 422248,
+      "Sinovac": 401302,
+      "Sinopharm": 184723,
+      "Pfizer": 123242,
+      "Moderna": "2252",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 342055,
+      "province": "อุทัยธานี",
+      "AstraZeneca": 150172,
+      "Sinovac": 133998,
+      "Sinopharm": 15645,
+      "Pfizer": 41677,
+      "Moderna": "563",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 722549,
+      "province": "กำแพงเพชร",
+      "AstraZeneca": 268757,
+      "Sinovac": 258563,
+      "Sinopharm": 77180,
+      "Pfizer": 117713,
+      "Moderna": "336",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 639284,
+      "province": "ตาก",
+      "AstraZeneca": 269618,
+      "Sinovac": 263678,
+      "Sinopharm": 31376,
+      "Pfizer": 72892,
+      "Moderna": "1720",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 601813,
+      "province": "สุโขทัย",
+      "AstraZeneca": 222836,
+      "Sinovac": 208437,
+      "Sinopharm": 106150,
+      "Pfizer": 64172,
+      "Moderna": "218",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 979438,
+      "province": "พิษณุโลก",
+      "AstraZeneca": 356397,
+      "Sinovac": 367637,
+      "Sinopharm": 138412,
+      "Pfizer": 115285,
+      "Moderna": "1707",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 548877,
+      "province": "พิจิตร",
+      "AstraZeneca": 199947,
+      "Sinovac": 188893,
+      "Sinopharm": 77542,
+      "Pfizer": 81904,
+      "Moderna": "591",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1018523,
+      "province": "เพชรบูรณ์",
+      "AstraZeneca": 415907,
+      "Sinovac": 358722,
+      "Sinopharm": 82757,
+      "Pfizer": 160864,
+      "Moderna": "273",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 3143229,
+      "province": "นครราชสีมา",
+      "AstraZeneca": 1171174,
+      "Sinovac": 1203048,
+      "Sinopharm": 417518,
+      "Pfizer": 350725,
+      "Moderna": "764",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1856961,
+      "province": "บุรีรัมย์",
+      "AstraZeneca": 912275,
+      "Sinovac": 657953,
+      "Sinopharm": 15729,
+      "Pfizer": 270603,
+      "Moderna": "401",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1263055,
+      "province": "สุรินทร์",
+      "AstraZeneca": 519672,
+      "Sinovac": 499171,
+      "Sinopharm": 35547,
+      "Pfizer": 208081,
+      "Moderna": "584",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1317711,
+      "province": "ศรีสะเกษ",
+      "AstraZeneca": 548846,
+      "Sinovac": 519524,
+      "Sinopharm": 72646,
+      "Pfizer": 175241,
+      "Moderna": "1454",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1799727,
+      "province": "อุบลราชธานี",
+      "AstraZeneca": 750043,
+      "Sinovac": 669528,
+      "Sinopharm": 149871,
+      "Pfizer": 227471,
+      "Moderna": "2814",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 468559,
+      "province": "ยโสธร",
+      "AstraZeneca": 205357,
+      "Sinovac": 186666,
+      "Sinopharm": 21121,
+      "Pfizer": 55078,
+      "Moderna": "337",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1038527,
+      "province": "ชัยภูมิ",
+      "AstraZeneca": 434081,
+      "Sinovac": 428920,
+      "Sinopharm": 56134,
+      "Pfizer": 119281,
+      "Moderna": "111",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 377097,
+      "province": "อำนาจเจริญ",
+      "AstraZeneca": 164720,
+      "Sinovac": 134015,
+      "Sinopharm": 16929,
+      "Pfizer": 61433,
+      "Moderna": 0,
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 343329,
+      "province": "บึงกาฬ",
+      "AstraZeneca": 157596,
+      "Sinovac": 133390,
+      "Sinopharm": 8261,
+      "Pfizer": 44082,
+      "Moderna": 0,
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 414043,
+      "province": "หนองบัวลำภู",
+      "AstraZeneca": 201423,
+      "Sinovac": 162445,
+      "Sinopharm": 4961,
+      "Pfizer": 45191,
+      "Moderna": "23",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1853356,
+      "province": "ขอนแก่น",
+      "AstraZeneca": 676348,
+      "Sinovac": 648979,
+      "Sinopharm": 298979,
+      "Pfizer": 221695,
+      "Moderna": "7068",
+      "Johnson & Johnson": 287
+    },
+    {
+      "total_doses": 1649857,
+      "province": "อุดรธานี",
+      "AstraZeneca": 605984,
+      "Sinovac": 579933,
+      "Sinopharm": 261055,
+      "Pfizer": 198653,
+      "Moderna": "3981",
+      "Johnson & Johnson": 251
+    },
+    {
+      "total_doses": 674990,
+      "province": "เลย",
+      "AstraZeneca": 304969,
+      "Sinovac": 279205,
+      "Sinopharm": 26603,
+      "Pfizer": 63522,
+      "Moderna": "691",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 531847,
+      "province": "หนองคาย",
+      "AstraZeneca": 271441,
+      "Sinovac": 177779,
+      "Sinopharm": 15614,
+      "Pfizer": 66801,
+      "Moderna": "212",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 875985,
+      "province": "มหาสารคาม",
+      "AstraZeneca": 376998,
+      "Sinovac": 386068,
+      "Sinopharm": 12150,
+      "Pfizer": 100206,
+      "Moderna": "563",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1151230,
+      "province": "ร้อยเอ็ด",
+      "AstraZeneca": 442092,
+      "Sinovac": 473933,
+      "Sinopharm": 68783,
+      "Pfizer": 165194,
+      "Moderna": "1228",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 831345,
+      "province": "กาฬสินธุ์",
+      "AstraZeneca": 348843,
+      "Sinovac": 321654,
+      "Sinopharm": 35147,
+      "Pfizer": 125042,
+      "Moderna": "659",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 968981,
+      "province": "สกลนคร",
+      "AstraZeneca": 414513,
+      "Sinovac": 375421,
+      "Sinopharm": 68945,
+      "Pfizer": 109443,
+      "Moderna": "659",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 599791,
+      "province": "นครพนม",
+      "AstraZeneca": 262152,
+      "Sinovac": 229959,
+      "Sinopharm": 17117,
+      "Pfizer": 90563,
+      "Moderna": 0,
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 354616,
+      "province": "มุกดาหาร",
+      "AstraZeneca": 175321,
+      "Sinovac": 120936,
+      "Sinopharm": 18846,
+      "Pfizer": 39072,
+      "Moderna": "441",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1768800,
+      "province": "นครศรีธรรมราช",
+      "AstraZeneca": 736711,
+      "Sinovac": 589178,
+      "Sinopharm": 212260,
+      "Pfizer": 229300,
+      "Moderna": "1351",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 690038,
+      "province": "กระบี่",
+      "AstraZeneca": 312457,
+      "Sinovac": 244633,
+      "Sinopharm": 51560,
+      "Pfizer": 80559,
+      "Moderna": "829",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 420319,
+      "province": "พังงา",
+      "AstraZeneca": 203872,
+      "Sinovac": 155485,
+      "Sinopharm": 15574,
+      "Pfizer": 44892,
+      "Moderna": "496",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 1189429,
+      "province": "ภูเก็ต",
+      "AstraZeneca": 424737,
+      "Sinovac": 691761,
+      "Sinopharm": 6388,
+      "Pfizer": 64198,
+      "Moderna": "1648",
+      "Johnson & Johnson": 697
+    },
+    {
+      "total_doses": 1507149,
+      "province": "สุราษฎร์ธานี",
+      "AstraZeneca": 575030,
+      "Sinovac": 525268,
+      "Sinopharm": 264915,
+      "Pfizer": 139156,
+      "Moderna": "2187",
+      "Johnson & Johnson": 593
+    },
+    {
+      "total_doses": 347846,
+      "province": "ระนอง",
+      "AstraZeneca": 150323,
+      "Sinovac": 113038,
+      "Sinopharm": 28810,
+      "Pfizer": 55675,
+      "Moderna": 0,
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 574968,
+      "province": "ชุมพร",
+      "AstraZeneca": 220833,
+      "Sinovac": 183424,
+      "Sinopharm": 103754,
+      "Pfizer": 65062,
+      "Moderna": "1895",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 2108654,
+      "province": "สงขลา",
+      "AstraZeneca": 624226,
+      "Sinovac": 403309,
+      "Sinopharm": 339667,
+      "Pfizer": 719757,
+      "Moderna": "21695",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 344707,
+      "province": "สตูล",
+      "AstraZeneca": 139730,
+      "Sinovac": 149094,
+      "Sinopharm": 10708,
+      "Pfizer": 45175,
+      "Moderna": 0,
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 840390,
+      "province": "ตรัง",
+      "AstraZeneca": 222253,
+      "Sinovac": 259939,
+      "Sinopharm": 223086,
+      "Pfizer": 134514,
+      "Moderna": "598",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 566300,
+      "province": "พัทลุง",
+      "AstraZeneca": 238171,
+      "Sinovac": 230572,
+      "Sinopharm": 25875,
+      "Pfizer": 71443,
+      "Moderna": "239",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 689076,
+      "province": "ปัตตานี",
+      "AstraZeneca": 275999,
+      "Sinovac": 183805,
+      "Sinopharm": 7556,
+      "Pfizer": 221716,
+      "Moderna": 0,
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 636098,
+      "province": "ยะลา",
+      "AstraZeneca": 219249,
+      "Sinovac": 130878,
+      "Sinopharm": 118268,
+      "Pfizer": 167607,
+      "Moderna": "96",
+      "Johnson & Johnson": 0
+    },
+    {
+      "total_doses": 751687,
+      "province": "นราธิวาส",
+      "AstraZeneca": 277214,
+      "Sinovac": 182970,
+      "Sinopharm": 7841,
+      "Pfizer": 283542,
+      "Moderna": "120",
+      "Johnson & Johnson": 0
+    }
+  ]
+}

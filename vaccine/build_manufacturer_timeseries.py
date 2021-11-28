@@ -3,7 +3,8 @@ import sys
 import pandas as pd
 import json
 
-MAIN_URL = "https://raw.githubusercontent.com/wiki/porames/the-researcher-covid-data"
+# MAIN_URL = "https://raw.githubusercontent.com/wiki/porames/the-researcher-covid-data"
+MAIN_URL = "https://raw.githubusercontent.com/nathakits/the-researcher-covid-data/master/dataset/vaccination/"
 
 
 def json_load(file_path: str) -> dict:
@@ -30,7 +31,7 @@ def build_manufacturer_timeseries(manufacturer_data: dict) -> pd.DataFrame:
 
     # Historical Manufacturer timeseries
     START_DATE = "2021-07-02"
-    timeseries = pd.read_json(MAIN_URL + "/vaccination/vaccine-manufacturer-timeseries.json")
+    timeseries = pd.read_json(MAIN_URL + "vaccine-manufacturer-timeseries.json")
     timeseries["date"] = pd.to_datetime(timeseries["date"])
     timeseries = timeseries.merge(manufacturer_data_sum, how="outer").drop_duplicates(subset=["date"], keep="last")
     timeseries.set_index("date", inplace=True)
