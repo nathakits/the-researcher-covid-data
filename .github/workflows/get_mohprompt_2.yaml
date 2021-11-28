@@ -214,6 +214,11 @@ jobs:
         with:
           name: vaccination
           path: dataset/vaccination
+      - name: Download vaccination-combined Artifacts
+        uses: actions/download-artifact@v2
+        with:
+          name: vaccination-combined
+          path: dataset/vaccination
       - name: Display git status
         run: git status
       - name: Display git diff
