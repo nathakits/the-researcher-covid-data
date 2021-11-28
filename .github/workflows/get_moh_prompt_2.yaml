@@ -191,6 +191,8 @@ jobs:
           path: wiki/vaccination
       - name: Display git status
         run: git status
+      - name: Display structure of downloaded files
+        run: ls -R
       - name: Setup Python Environment
         uses: actions/setup-python@v2.2.2
       - name: Cache Python Environment
@@ -213,6 +215,8 @@ jobs:
           python vaccine/build_manufacturer_timeseries.py
       - name: Display git status
         run: git status
+      - name: Display structure of downloaded files
+        run: ls -R
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
