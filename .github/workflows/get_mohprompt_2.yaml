@@ -155,7 +155,7 @@ jobs:
         with:
           name: vaccination
           path: |
-            dataset/vaccination/*
+            dataset/vaccination/*.json
 
   combine-moh-prompt:
     needs:
@@ -175,6 +175,8 @@ jobs:
         with:
           name: vaccination
           path: dataset/vaccination
+      - name: Display git status
+        run: git status
       - name: Setup Python Environment
         uses: actions/setup-python@v2.2.2
       - name: Cache Python Environment
@@ -193,6 +195,8 @@ jobs:
           python vaccine/combine_moh_prompt.py
           python vaccine/build_national_timeseries.py
           python vaccine/build_manufacturer_timeseries.py
+      - name: Display git status
+        run: git status
       - name: Upload artifact
         uses: actions/upload-artifact@v2
         with:
@@ -212,6 +216,8 @@ jobs:
           path: dataset/vaccination
       - name: Display git status
         run: git status
+      - name: Display git diff
+        run: git diff
       - name: Display structure of downloaded files
         run: ls -R
       # - name: Commit and Push JSON
