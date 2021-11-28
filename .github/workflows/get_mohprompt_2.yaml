@@ -27,6 +27,7 @@ jobs:
         run: python vaccine/scrape_moh_prompt.py 0
       - name: Display git status
         run: git status
+        run: pwd
 
   get-moh-prompt-1:
     runs-on: ubuntu-latest
@@ -50,6 +51,7 @@ jobs:
         run: python vaccine/scrape_moh_prompt.py 1
       - name: Display git status
         run: git status
+        run: pwd
 
   get-moh-prompt-2:
     runs-on: ubuntu-latest
@@ -75,6 +77,7 @@ jobs:
         run: python vaccine/scrape_moh_prompt.py 2
       - name: Display git status
         run: git status
+        run: pwd
 
   get-moh-prompt-3:
     runs-on: ubuntu-latest
@@ -100,6 +103,7 @@ jobs:
         run: python vaccine/scrape_moh_prompt.py 3
       - name: Display git status
         run: git status
+        run: pwd
 
   get-moh-prompt-4:
     runs-on: ubuntu-latest
@@ -126,6 +130,7 @@ jobs:
         run: python vaccine/scrape_moh_prompt.py 4
       - name: Display git status
         run: git status
+        run: pwd
 
   combine-moh-prompt:
     needs:
