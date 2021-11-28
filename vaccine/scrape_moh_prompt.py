@@ -17,7 +17,7 @@ firefox_options.add_argument("--no-sandbox")
 firefox_options.add_argument("--disable-dev-shm-usage")
 
 
-with open("../population-data/th-census-data.json", encoding="utf-8") as file:
+with open("./population-data/th-census-data.json", encoding="utf-8") as file:
     census = json.load(file)
 
 def get_over_60(wd):
