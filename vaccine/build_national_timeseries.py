@@ -24,7 +24,7 @@ def calculate_national_sum_today(data: dict) -> pd.DataFrame:
 
 if __name__ == "__main__":
     # Parse today scraped data
-    moh_prompt_data = json_load("../dataset/vaccination/provincial-vaccination.json")
+    moh_prompt_data = json_load("./dataset/vaccination/provincial-vaccination.json")
     print(moh_prompt_data["update_date"])
     today_data = calculate_national_sum_today(moh_prompt_data)
 
@@ -47,10 +47,10 @@ if __name__ == "__main__":
 
     # Save data as json and csv
     vaccination_timeseries.to_json(
-        "../dataset/vaccination/national-vaccination-timeseries.json",
+        "./dataset/vaccination/national-vaccination-timeseries.json",
         orient="records",
         indent=2,
         force_ascii=False,
     )
-    vaccination_timeseries.to_csv("../dataset/vaccination/national-vaccination-timeseries.csv", index=False)
+    vaccination_timeseries.to_csv("./dataset/vaccination/national-vaccination-timeseries.csv", index=False)
     print("Processed National Timeseries")

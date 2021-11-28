@@ -278,7 +278,7 @@ def scrape_and_save_moh_prompt(dose_num:int):
         "data": dataset.to_dict(orient="records"),
     }
     
-    json_dir = "../dataset/vaccination/"
+    json_dir = "./dataset/vaccination/"
     os.makedirs(json_dir, exist_ok=True)
     if dose_num != 0:
         with open(f"{json_dir}/{car_to_or[dose_num]}-dose-provincial-vaccination.json", "w+") as json_file:
@@ -326,7 +326,7 @@ def scrape_age_group():
         time.sleep(5)
         doses_by_age = get_age_group(wd)
         dataset[f"total_{car_to_or[dose_num]}_dose"] = doses_by_age
-    json_dir = "../dataset/vaccination/"
+    json_dir = "./dataset/vaccination/"
     os.makedirs(json_dir, exist_ok=True)    
     with open(f"{json_dir}/vaccination-by-age-group.json", "w+") as json_file:
         json.dump(dataset, json_file, ensure_ascii=False, indent=2)
