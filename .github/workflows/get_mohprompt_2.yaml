@@ -200,12 +200,14 @@ jobs:
         with:
           name: vaccination
           path: dataset/vaccination
+      - name: Display git status
+        run: git status
       - name: Display structure of downloaded files
         run: ls -R
-      - name: Commit and Push JSON
-        run: |
-          git config user.name "nathakits"
-          git config user.email nathakit.tan@gmail.com
-          git add .
-          git commit -m "[bot 🤖] auto update vaccine data"
-          git push
+      # - name: Commit and Push JSON
+      #   run: |
+      #     git config user.name "nathakits"
+      #     git config user.email nathakit.tan@gmail.com
+      #     git add .
+      #     git commit -m "[bot 🤖] auto update vaccine data"
+      #     git push
