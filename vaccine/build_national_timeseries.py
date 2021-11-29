@@ -1,7 +1,7 @@
 import pandas as pd
 import json
 
-MAIN_URL = "https://raw.githubusercontent.com/wiki/porames/the-researcher-covid-data"
+MAIN_URL = "https://raw.githubusercontent.com/wiki/porames/the-researcher-covid-data/vaccination/"
 # MAIN_URL = "https://raw.githubusercontent.com/nathakits/the-researcher-covid-data/master/dataset/vaccination/"
 
 
