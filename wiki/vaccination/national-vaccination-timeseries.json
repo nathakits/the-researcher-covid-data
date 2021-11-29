@@ -2430,8 +2430,44 @@
     "total_doses":88668173
   },
   {
+    "date":"2021-11-21",
+    "daily_vaccinations":321062,
+    "data_anomaly":null,
+    "first_dose":46718014,
+    "second_dose":39202716,
+    "third_dose":3068505,
+    "total_doses":88989235
+  },
+  {
+    "date":"2021-11-22",
+    "daily_vaccinations":347556,
+    "data_anomaly":null,
+    "first_dose":46836876,
+    "second_dose":39403769,
+    "third_dose":3096146,
+    "total_doses":89336791
+  },
+  {
+    "date":"2021-11-23",
+    "daily_vaccinations":557392,
+    "data_anomaly":null,
+    "first_dose":47034024,
+    "second_dose":39724270,
+    "third_dose":3135889,
+    "total_doses":89894183
+  },
+  {
+    "date":"2021-11-24",
+    "daily_vaccinations":574772,
+    "data_anomaly":null,
+    "first_dose":47233526,
+    "second_dose":40056072,
+    "third_dose":3179357,
+    "total_doses":90468955
+  },
+  {
     "date":"2021-11-25",
-    "daily_vaccinations":2558733,
+    "daily_vaccinations":757951,
     "data_anomaly":null,
     "first_dose":47501235,
     "second_dose":40520283,
