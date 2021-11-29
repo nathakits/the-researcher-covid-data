@@ -249,10 +249,10 @@ jobs:
       #     source-directory: './wiki'
       #   env:
       #     GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
-      # - name: Commit and Push JSON
-      #   run: |
-      #     git config user.name "nathakits"
-      #     git config user.email nathakit.tan@gmail.com
-      #     git add .
-      #     git commit -m "[bot 🤖] auto update vaccine data"
-      #     git push
+      - name: Commit and Push JSON
+        run: |
+          git config user.name "nathakits"
+          git config user.email nathakit.tan@gmail.com
+          git add .
+          git commit -m "[bot 🤖] auto update vaccine data"
+          git push
