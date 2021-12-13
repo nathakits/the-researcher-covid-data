@@ -3729,5 +3729,18 @@
     "Sinovac_rate":2054,
     "Pfizer":12594019,
     "Pfizer_rate":23661
+  },
+  {
+    "date":"2021-12-13",
+    "AstraZeneca":43070011,
+    "AstraZeneca_rate":35285,
+    "Johnson & Johnson":6847,
+    "JnJ_rate":0,
+    "Sinopharm":14328145,
+    "Sinopharm_rate":12301,
+    "Sinovac":26281039,
+    "Sinovac_rate":3522,
+    "Pfizer":12717482,
+    "Pfizer_rate":123463
   }
 ]
