@@ -2809,11 +2809,11 @@
   },
   {
     "date":"2022-01-02",
-    "daily_vaccinations":25254,
+    "daily_vaccinations":-117185,
     "data_anomaly":null,
-    "first_dose":51276399,
-    "second_dose":46155086,
-    "third_dose":7009562,
-    "total_doses":104441047
+    "first_dose":51276923,
+    "second_dose":46011061,
+    "third_dose":7010624,
+    "total_doses":104298608
   }
 ]
