@@ -4171,5 +4171,18 @@
     "Sinovac_rate":609,
     "Pfizer":21096031,
     "Pfizer_rate":149759
+  },
+  {
+    "date":"2022-01-16",
+    "AstraZeneca":44892367,
+    "AstraZeneca_rate":3585,
+    "Johnson & Johnson":7068,
+    "JnJ_rate":0,
+    "Sinopharm":14657226,
+    "Sinopharm_rate":223,
+    "Sinovac":26411374,
+    "Sinovac_rate":77,
+    "Pfizer":21112262,
+    "Pfizer_rate":16231
   }
 ]
