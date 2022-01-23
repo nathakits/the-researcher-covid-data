@@ -1,68 +1,68 @@
 {
-  "update_date": "2022-01-23T12:06",
+  "update_date": "2022-01-23T18:06",
   "data": [
     {
       "province": "กระบี่",
       "over_60_1st_dose": 49382,
       "total_1st_dose": 361504,
       "total_2nd_dose": 341634,
-      "total_3rd_dose": 64562
+      "total_3rd_dose": 64594
     },
     {
       "province": "กรุงเทพมหานคร",
-      "over_60_1st_dose": 1295412,
-      "total_1st_dose": 9328609,
-      "total_2nd_dose": 8654429,
-      "total_3rd_dose": 2805602
+      "over_60_1st_dose": 1295502,
+      "total_1st_dose": 9329620,
+      "total_2nd_dose": 8655433,
+      "total_3rd_dose": 2828968
     },
     {
       "province": "กาญจนบุรี",
-      "over_60_1st_dose": 78688,
-      "total_1st_dose": 511332,
-      "total_2nd_dose": 483907,
-      "total_3rd_dose": 104701
+      "over_60_1st_dose": 78701,
+      "total_1st_dose": 511465,
+      "total_2nd_dose": 483945,
+      "total_3rd_dose": 105346
     },
     {
       "province": "กาฬสินธุ์",
-      "over_60_1st_dose": 123184,
-      "total_1st_dose": 538691,
-      "total_2nd_dose": 482249,
-      "total_3rd_dose": 66992
+      "over_60_1st_dose": 123188,
+      "total_1st_dose": 538726,
+      "total_2nd_dose": 482321,
+      "total_3rd_dose": 66993
     },
     {
       "province": "กำแพงเพชร",
-      "over_60_1st_dose": 86849,
-      "total_1st_dose": 405991,
-      "total_2nd_dose": 386121,
-      "total_3rd_dose": 76245
+      "over_60_1st_dose": 86856,
+      "total_1st_dose": 406048,
+      "total_2nd_dose": 386129,
+      "total_3rd_dose": 76369
     },
     {
       "province": "ขอนแก่น",
-      "over_60_1st_dose": 235783,
-      "total_1st_dose": 1149829,
-      "total_2nd_dose": 1044394,
-      "total_3rd_dose": 229281
+      "over_60_1st_dose": 235804,
+      "total_1st_dose": 1150058,
+      "total_2nd_dose": 1044678,
+      "total_3rd_dose": 231029
     },
     {
       "province": "จันทบุรี",
-      "over_60_1st_dose": 72431,
-      "total_1st_dose": 432337,
-      "total_2nd_dose": 409188,
-      "total_3rd_dose": 70594
+      "over_60_1st_dose": 72439,
+      "total_1st_dose": 432387,
+      "total_2nd_dose": 409195,
+      "total_3rd_dose": 70883
     },
     {
       "province": "ฉะเชิงเทรา",
-      "over_60_1st_dose": 93399,
-      "total_1st_dose": 664997,
-      "total_2nd_dose": 567464,
-      "total_3rd_dose": 159992
+      "over_60_1st_dose": 93412,
+      "total_1st_dose": 665139,
+      "total_2nd_dose": 567550,
+      "total_3rd_dose": 161446
     },
     {
       "province": "ชลบุรี",
-      "over_60_1st_dose": 180574,
-      "total_1st_dose": 1936918,
-      "total_2nd_dose": 1841775,
-      "total_3rd_dose": 473830
+      "over_60_1st_dose": 180583,
+      "total_1st_dose": 1937194,
+      "total_2nd_dose": 1841878,
+      "total_3rd_dose": 475115
     },
     {
       "province": "ชัยนาท",
@@ -73,10 +73,10 @@
     },
     {
       "province": "ชัยภูมิ",
-      "over_60_1st_dose": 156034,
-      "total_1st_dose": 636528,
-      "total_2nd_dose": 579815,
-      "total_3rd_dose": 97288
+      "over_60_1st_dose": 156035,
+      "total_1st_dose": 636532,
+      "total_2nd_dose": 579883,
+      "total_3rd_dose": 97307
     },
     {
       "province": "ชุมพร",
@@ -90,19 +90,19 @@
       "over_60_1st_dose": 85471,
       "total_1st_dose": 465519,
       "total_2nd_dose": 443577,
-      "total_3rd_dose": 104333
+      "total_3rd_dose": 104345
     },
     {
       "province": "ตราด",
-      "over_60_1st_dose": 29551,
-      "total_1st_dose": 169679,
-      "total_2nd_dose": 161100,
-      "total_3rd_dose": 38283
+      "over_60_1st_dose": 29553,
+      "total_1st_dose": 169707,
+      "total_2nd_dose": 161141,
+      "total_3rd_dose": 38383
     },
     {
       "province": "ตาก",
       "over_60_1st_dose": 60945,
-      "total_1st_dose": 424060,
+      "total_1st_dose": 424059,
       "total_2nd_dose": 353403,
       "total_3rd_dose": 78392
     },
@@ -115,115 +115,115 @@
     },
     {
       "province": "นครปฐม",
-      "over_60_1st_dose": 88873,
-      "total_1st_dose": 654161,
-      "total_2nd_dose": 647189,
-      "total_3rd_dose": 184618
+      "over_60_1st_dose": 88874,
+      "total_1st_dose": 654188,
+      "total_2nd_dose": 647194,
+      "total_3rd_dose": 185802
     },
     {
       "province": "นครพนม",
-      "over_60_1st_dose": 81599,
-      "total_1st_dose": 408932,
-      "total_2nd_dose": 367960,
-      "total_3rd_dose": 59431
+      "over_60_1st_dose": 81602,
+      "total_1st_dose": 408951,
+      "total_2nd_dose": 368031,
+      "total_3rd_dose": 59518
     },
     {
       "province": "นครราชสีมา",
-      "over_60_1st_dose": 297809,
-      "total_1st_dose": 1727255,
-      "total_2nd_dose": 1631360,
-      "total_3rd_dose": 423739
+      "over_60_1st_dose": 297824,
+      "total_1st_dose": 1727406,
+      "total_2nd_dose": 1631485,
+      "total_3rd_dose": 425303
     },
     {
       "province": "นครศรีธรรมราช",
       "over_60_1st_dose": 211808,
-      "total_1st_dose": 1045732,
-      "total_2nd_dose": 913929,
-      "total_3rd_dose": 167068
+      "total_1st_dose": 1045737,
+      "total_2nd_dose": 914084,
+      "total_3rd_dose": 167173
     },
     {
       "province": "นครสวรรค์",
-      "over_60_1st_dose": 149273,
-      "total_1st_dose": 625852,
-      "total_2nd_dose": 597375,
-      "total_3rd_dose": 134773
+      "over_60_1st_dose": 149274,
+      "total_1st_dose": 625861,
+      "total_2nd_dose": 597380,
+      "total_3rd_dose": 134954
     },
     {
       "province": "นนทบุรี",
       "over_60_1st_dose": 141492,
-      "total_1st_dose": 1111833,
-      "total_2nd_dose": 1065045,
-      "total_3rd_dose": 528836
+      "total_1st_dose": 1111839,
+      "total_2nd_dose": 1065053,
+      "total_3rd_dose": 529210
     },
     {
       "province": "นราธิวาส",
-      "over_60_1st_dose": 53582,
-      "total_1st_dose": 433668,
-      "total_2nd_dose": 350052,
-      "total_3rd_dose": 36746
+      "over_60_1st_dose": 53583,
+      "total_1st_dose": 433696,
+      "total_2nd_dose": 350062,
+      "total_3rd_dose": 36855
     },
     {
       "province": "น่าน",
-      "over_60_1st_dose": 83452,
-      "total_1st_dose": 311391,
-      "total_2nd_dose": 296264,
-      "total_3rd_dose": 57842
+      "over_60_1st_dose": 83460,
+      "total_1st_dose": 311418,
+      "total_2nd_dose": 296304,
+      "total_3rd_dose": 58039
     },
     {
       "province": "บึงกาฬ",
-      "over_60_1st_dose": 42340,
-      "total_1st_dose": 233634,
-      "total_2nd_dose": 199356,
-      "total_3rd_dose": 24349
+      "over_60_1st_dose": 42346,
+      "total_1st_dose": 233658,
+      "total_2nd_dose": 199462,
+      "total_3rd_dose": 24388
     },
     {
       "province": "บุรีรัมย์",
-      "over_60_1st_dose": 204142,
-      "total_1st_dose": 978982,
-      "total_2nd_dose": 906021,
-      "total_3rd_dose": 215402
+      "over_60_1st_dose": 204151,
+      "total_1st_dose": 979011,
+      "total_2nd_dose": 906052,
+      "total_3rd_dose": 215868
     },
     {
       "province": "ปทุมธานี",
-      "over_60_1st_dose": 139818,
-      "total_1st_dose": 1299014,
-      "total_2nd_dose": 1224218,
-      "total_3rd_dose": 285069
+      "over_60_1st_dose": 139824,
+      "total_1st_dose": 1299089,
+      "total_2nd_dose": 1224357,
+      "total_3rd_dose": 286236
     },
     {
       "province": "ประจวบคีรีขันธ์",
       "over_60_1st_dose": 65791,
-      "total_1st_dose": 413479,
-      "total_2nd_dose": 390442,
-      "total_3rd_dose": 92491
+      "total_1st_dose": 413540,
+      "total_2nd_dose": 390447,
+      "total_3rd_dose": 92570
     },
     {
       "province": "ปราจีนบุรี",
-      "over_60_1st_dose": 55163,
-      "total_1st_dose": 378175,
-      "total_2nd_dose": 356277,
-      "total_3rd_dose": 92742
+      "over_60_1st_dose": 55172,
+      "total_1st_dose": 378208,
+      "total_2nd_dose": 356288,
+      "total_3rd_dose": 92982
     },
     {
       "province": "ปัตตานี",
-      "over_60_1st_dose": 47150,
-      "total_1st_dose": 400964,
-      "total_2nd_dose": 322284,
-      "total_3rd_dose": 34727
+      "over_60_1st_dose": 47158,
+      "total_1st_dose": 400992,
+      "total_2nd_dose": 322311,
+      "total_3rd_dose": 34768
     },
     {
       "province": "พระนครศรีอยุธยา",
-      "over_60_1st_dose": 95397,
-      "total_1st_dose": 640607,
-      "total_2nd_dose": 614185,
-      "total_3rd_dose": 248254
+      "over_60_1st_dose": 95400,
+      "total_1st_dose": 640625,
+      "total_2nd_dose": 614253,
+      "total_3rd_dose": 248626
     },
     {
       "province": "พะเยา",
       "over_60_1st_dose": 85033,
       "total_1st_dose": 307589,
       "total_2nd_dose": 298349,
-      "total_3rd_dose": 61945
+      "total_3rd_dose": 62019
     },
     {
       "province": "พังงา",
@@ -236,57 +236,57 @@
       "province": "พัทลุง",
       "over_60_1st_dose": 74673,
       "total_1st_dose": 314161,
-      "total_2nd_dose": 300994,
+      "total_2nd_dose": 301012,
       "total_3rd_dose": 50670
     },
     {
       "province": "พิจิตร",
-      "over_60_1st_dose": 79130,
-      "total_1st_dose": 300076,
+      "over_60_1st_dose": 79145,
+      "total_1st_dose": 300120,
       "total_2nd_dose": 287452,
-      "total_3rd_dose": 67176
+      "total_3rd_dose": 67249
     },
     {
       "province": "พิษณุโลก",
-      "over_60_1st_dose": 113573,
-      "total_1st_dose": 569694,
-      "total_2nd_dose": 544780,
-      "total_3rd_dose": 141645
+      "over_60_1st_dose": 113576,
+      "total_1st_dose": 569703,
+      "total_2nd_dose": 544832,
+      "total_3rd_dose": 141828
     },
     {
       "province": "ภูเก็ต",
-      "over_60_1st_dose": 50030,
-      "total_1st_dose": 482825,
-      "total_2nd_dose": 468315,
-      "total_3rd_dose": 301929
+      "over_60_1st_dose": 50031,
+      "total_1st_dose": 482851,
+      "total_2nd_dose": 468333,
+      "total_3rd_dose": 302216
     },
     {
       "province": "มหาสารคาม",
-      "over_60_1st_dose": 121063,
-      "total_1st_dose": 532419,
-      "total_2nd_dose": 480883,
-      "total_3rd_dose": 78141
+      "over_60_1st_dose": 121075,
+      "total_1st_dose": 532448,
+      "total_2nd_dose": 480957,
+      "total_3rd_dose": 78436
     },
     {
       "province": "มุกดาหาร",
-      "over_60_1st_dose": 39254,
-      "total_1st_dose": 223025,
-      "total_2nd_dose": 198225,
-      "total_3rd_dose": 45949
+      "over_60_1st_dose": 39268,
+      "total_1st_dose": 223127,
+      "total_2nd_dose": 198312,
+      "total_3rd_dose": 46238
     },
     {
       "province": "ยะลา",
       "over_60_1st_dose": 40534,
       "total_1st_dose": 351666,
-      "total_2nd_dose": 293515,
-      "total_3rd_dose": 38545
+      "total_2nd_dose": 293518,
+      "total_3rd_dose": 38554
     },
     {
       "province": "ยโสธร",
-      "over_60_1st_dose": 72197,
-      "total_1st_dose": 309642,
-      "total_2nd_dose": 282484,
-      "total_3rd_dose": 40431
+      "over_60_1st_dose": 72215,
+      "total_1st_dose": 309706,
+      "total_2nd_dose": 282666,
+      "total_3rd_dose": 40634
     },
     {
       "province": "ระนอง",
@@ -297,108 +297,108 @@
     },
     {
       "province": "ระยอง",
-      "over_60_1st_dose": 76226,
-      "total_1st_dose": 766614,
-      "total_2nd_dose": 731167,
-      "total_3rd_dose": 191446
+      "over_60_1st_dose": 76235,
+      "total_1st_dose": 766675,
+      "total_2nd_dose": 731200,
+      "total_3rd_dose": 191710
     },
     {
       "province": "ราชบุรี",
-      "over_60_1st_dose": 92692,
-      "total_1st_dose": 525395,
-      "total_2nd_dose": 512801,
-      "total_3rd_dose": 116330
+      "over_60_1st_dose": 92699,
+      "total_1st_dose": 525457,
+      "total_2nd_dose": 512899,
+      "total_3rd_dose": 116990
     },
     {
       "province": "ร้อยเอ็ด",
       "over_60_1st_dose": 169556,
-      "total_1st_dose": 712660,
-      "total_2nd_dose": 654916,
-      "total_3rd_dose": 100225
+      "total_1st_dose": 712665,
+      "total_2nd_dose": 654955,
+      "total_3rd_dose": 100317
     },
     {
       "province": "ลพบุรี",
       "over_60_1st_dose": 86737,
-      "total_1st_dose": 417850,
-      "total_2nd_dose": 388326,
-      "total_3rd_dose": 118025
+      "total_1st_dose": 417854,
+      "total_2nd_dose": 388327,
+      "total_3rd_dose": 118084
     },
     {
       "province": "ลำปาง",
-      "over_60_1st_dose": 137455,
-      "total_1st_dose": 479274,
-      "total_2nd_dose": 459187,
-      "total_3rd_dose": 132854
+      "over_60_1st_dose": 137481,
+      "total_1st_dose": 479354,
+      "total_2nd_dose": 459270,
+      "total_3rd_dose": 133204
     },
     {
       "province": "ลำพูน",
-      "over_60_1st_dose": 70353,
-      "total_1st_dose": 322684,
-      "total_2nd_dose": 299221,
-      "total_3rd_dose": 111500
+      "over_60_1st_dose": 70385,
+      "total_1st_dose": 322790,
+      "total_2nd_dose": 299567,
+      "total_3rd_dose": 112169
     },
     {
       "province": "ศรีสะเกษ",
-      "over_60_1st_dose": 183961,
-      "total_1st_dose": 809414,
-      "total_2nd_dose": 723974,
-      "total_3rd_dose": 136996
+      "over_60_1st_dose": 183969,
+      "total_1st_dose": 809458,
+      "total_2nd_dose": 724051,
+      "total_3rd_dose": 137438
     },
     {
       "province": "สกลนคร",
-      "over_60_1st_dose": 122975,
-      "total_1st_dose": 643206,
-      "total_2nd_dose": 554268,
-      "total_3rd_dose": 91274
+      "over_60_1st_dose": 122978,
+      "total_1st_dose": 643239,
+      "total_2nd_dose": 554375,
+      "total_3rd_dose": 91422
     },
     {
       "province": "สงขลา",
-      "over_60_1st_dose": 180630,
-      "total_1st_dose": 1132262,
-      "total_2nd_dose": 1062852,
-      "total_3rd_dose": 260618
+      "over_60_1st_dose": 180634,
+      "total_1st_dose": 1132284,
+      "total_2nd_dose": 1062917,
+      "total_3rd_dose": 261324
     },
     {
       "province": "สตูล",
-      "over_60_1st_dose": 30117,
-      "total_1st_dose": 196496,
-      "total_2nd_dose": 184706,
-      "total_3rd_dose": 26695
+      "over_60_1st_dose": 30118,
+      "total_1st_dose": 196515,
+      "total_2nd_dose": 184712,
+      "total_3rd_dose": 26734
     },
     {
       "province": "สมุทรปราการ",
-      "over_60_1st_dose": 150422,
-      "total_1st_dose": 1628402,
-      "total_2nd_dose": 1423853,
-      "total_3rd_dose": 520980
+      "over_60_1st_dose": 150433,
+      "total_1st_dose": 1628593,
+      "total_2nd_dose": 1424035,
+      "total_3rd_dose": 523815
     },
     {
       "province": "สมุทรสงคราม",
-      "over_60_1st_dose": 27290,
-      "total_1st_dose": 116308,
-      "total_2nd_dose": 105751,
-      "total_3rd_dose": 30545
+      "over_60_1st_dose": 27310,
+      "total_1st_dose": 116350,
+      "total_2nd_dose": 105845,
+      "total_3rd_dose": 30669
     },
     {
       "province": "สมุทรสาคร",
-      "over_60_1st_dose": 74034,
-      "total_1st_dose": 916058,
-      "total_2nd_dose": 835750,
-      "total_3rd_dose": 183193
+      "over_60_1st_dose": 74037,
+      "total_1st_dose": 916288,
+      "total_2nd_dose": 835905,
+      "total_3rd_dose": 183249
     },
     {
       "province": "สระบุรี",
       "over_60_1st_dose": 73363,
-      "total_1st_dose": 480081,
-      "total_2nd_dose": 475846,
-      "total_3rd_dose": 161396
+      "total_1st_dose": 480084,
+      "total_2nd_dose": 475855,
+      "total_3rd_dose": 161402
     },
     {
       "province": "สระแก้ว",
       "over_60_1st_dose": 57385,
-      "total_1st_dose": 328906,
-      "total_2nd_dose": 297553,
-      "total_3rd_dose": 49066
+      "total_1st_dose": 328917,
+      "total_2nd_dose": 297592,
+      "total_3rd_dose": 49069
     },
     {
       "province": "สิงห์บุรี",
@@ -409,136 +409,136 @@
     },
     {
       "province": "สุพรรณบุรี",
-      "over_60_1st_dose": 106877,
-      "total_1st_dose": 488075,
-      "total_2nd_dose": 466053,
-      "total_3rd_dose": 93222
+      "over_60_1st_dose": 106878,
+      "total_1st_dose": 488083,
+      "total_2nd_dose": 466078,
+      "total_3rd_dose": 93261
     },
     {
       "province": "สุราษฎร์ธานี",
-      "over_60_1st_dose": 132037,
-      "total_1st_dose": 876591,
-      "total_2nd_dose": 813153,
-      "total_3rd_dose": 182408
+      "over_60_1st_dose": 132040,
+      "total_1st_dose": 876724,
+      "total_2nd_dose": 813324,
+      "total_3rd_dose": 182678
     },
     {
       "province": "สุรินทร์",
-      "over_60_1st_dose": 172072,
-      "total_1st_dose": 734138,
-      "total_2nd_dose": 673783,
-      "total_3rd_dose": 108117
+      "over_60_1st_dose": 172098,
+      "total_1st_dose": 734199,
+      "total_2nd_dose": 673900,
+      "total_3rd_dose": 108344
     },
     {
       "province": "สุโขทัย",
-      "over_60_1st_dose": 89559,
-      "total_1st_dose": 342912,
+      "over_60_1st_dose": 89562,
+      "total_1st_dose": 342917,
       "total_2nd_dose": 319108,
-      "total_3rd_dose": 68923
+      "total_3rd_dose": 68946
     },
     {
       "province": "หนองคาย",
       "over_60_1st_dose": 58175,
-      "total_1st_dose": 299771,
-      "total_2nd_dose": 273329,
-      "total_3rd_dose": 45785
+      "total_1st_dose": 299781,
+      "total_2nd_dose": 273334,
+      "total_3rd_dose": 45872
     },
     {
       "province": "หนองบัวลำภู",
-      "over_60_1st_dose": 58761,
-      "total_1st_dose": 274152,
-      "total_2nd_dose": 240301,
-      "total_3rd_dose": 29802
+      "over_60_1st_dose": 58762,
+      "total_1st_dose": 274153,
+      "total_2nd_dose": 240312,
+      "total_3rd_dose": 29804
     },
     {
       "province": "อำนาจเจริญ",
-      "over_60_1st_dose": 46927,
-      "total_1st_dose": 225191,
-      "total_2nd_dose": 209307,
-      "total_3rd_dose": 32397
+      "over_60_1st_dose": 46928,
+      "total_1st_dose": 225194,
+      "total_2nd_dose": 209341,
+      "total_3rd_dose": 32419
     },
     {
       "province": "อุดรธานี",
-      "over_60_1st_dose": 180079,
-      "total_1st_dose": 954763,
-      "total_2nd_dose": 885378,
-      "total_3rd_dose": 179915
+      "over_60_1st_dose": 180095,
+      "total_1st_dose": 954858,
+      "total_2nd_dose": 885682,
+      "total_3rd_dose": 180491
     },
     {
       "province": "อุตรดิตถ์",
-      "over_60_1st_dose": 75817,
-      "total_1st_dose": 289462,
-      "total_2nd_dose": 265898,
-      "total_3rd_dose": 60446
+      "over_60_1st_dose": 75827,
+      "total_1st_dose": 289491,
+      "total_2nd_dose": 265903,
+      "total_3rd_dose": 60489
     },
     {
       "province": "อุทัยธานี",
       "over_60_1st_dose": 39612,
-      "total_1st_dose": 190290,
+      "total_1st_dose": 190292,
       "total_2nd_dose": 183051,
       "total_3rd_dose": 34122
     },
     {
       "province": "อุบลราชธานี",
-      "over_60_1st_dose": 227290,
-      "total_1st_dose": 1149129,
-      "total_2nd_dose": 1044589,
-      "total_3rd_dose": 183436
+      "over_60_1st_dose": 227293,
+      "total_1st_dose": 1149170,
+      "total_2nd_dose": 1044798,
+      "total_3rd_dose": 183813
     },
     {
       "province": "อ่างทอง",
-      "over_60_1st_dose": 42192,
-      "total_1st_dose": 164632,
-      "total_2nd_dose": 159363,
-      "total_3rd_dose": 49020
+      "over_60_1st_dose": 42197,
+      "total_1st_dose": 164659,
+      "total_2nd_dose": 159390,
+      "total_3rd_dose": 49408
     },
     {
       "province": "เชียงราย",
-      "over_60_1st_dose": 204507,
-      "total_1st_dose": 876551,
-      "total_2nd_dose": 791689,
-      "total_3rd_dose": 161764
+      "over_60_1st_dose": 204510,
+      "total_1st_dose": 876556,
+      "total_2nd_dose": 791693,
+      "total_3rd_dose": 161911
     },
     {
       "province": "เชียงใหม่",
-      "over_60_1st_dose": 294956,
-      "total_1st_dose": 1569256,
-      "total_2nd_dose": 1515112,
-      "total_3rd_dose": 375581
+      "over_60_1st_dose": 294960,
+      "total_1st_dose": 1569287,
+      "total_2nd_dose": 1515248,
+      "total_3rd_dose": 375967
     },
     {
       "province": "เพชรบุรี",
-      "over_60_1st_dose": 64994,
-      "total_1st_dose": 360054,
-      "total_2nd_dose": 335192,
-      "total_3rd_dose": 88100
+      "over_60_1st_dose": 64995,
+      "total_1st_dose": 360056,
+      "total_2nd_dose": 335208,
+      "total_3rd_dose": 88121
     },
     {
       "province": "เพชรบูรณ์",
-      "over_60_1st_dose": 137261,
-      "total_1st_dose": 582440,
-      "total_2nd_dose": 532998,
-      "total_3rd_dose": 149351
+      "over_60_1st_dose": 137263,
+      "total_1st_dose": 582451,
+      "total_2nd_dose": 533228,
+      "total_3rd_dose": 149864
     },
     {
       "province": "เลย",
       "over_60_1st_dose": 86696,
-      "total_1st_dose": 405206,
-      "total_2nd_dose": 369900,
-      "total_3rd_dose": 54605
+      "total_1st_dose": 405209,
+      "total_2nd_dose": 369919,
+      "total_3rd_dose": 54610
     },
     {
       "province": "แพร่",
-      "over_60_1st_dose": 69540,
-      "total_1st_dose": 272845,
-      "total_2nd_dose": 257296,
-      "total_3rd_dose": 42768
+      "over_60_1st_dose": 69543,
+      "total_1st_dose": 272852,
+      "total_2nd_dose": 257301,
+      "total_3rd_dose": 43047
     },
     {
       "province": "แม่ฮ่องสอน",
       "over_60_1st_dose": 26714,
       "total_1st_dose": 163820,
-      "total_2nd_dose": 120863,
-      "total_3rd_dose": 18475
+      "total_2nd_dose": 120862,
+      "total_3rd_dose": 18476
     }
   ]
 }
