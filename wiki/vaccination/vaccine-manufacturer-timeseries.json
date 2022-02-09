@@ -4473,15 +4473,28 @@
   },
   {
     "date":"2022-02-08",
-    "AstraZeneca":46523587,
-    "AstraZeneca_rate":48619,
+    "AstraZeneca":46527370,
+    "AstraZeneca_rate":52402,
     "Johnson & Johnson":7201,
     "JnJ_rate":51,
-    "Sinopharm":14778799,
-    "Sinopharm_rate":3683,
-    "Sinovac":26484015,
-    "Sinovac_rate":1204,
-    "Pfizer":26685760,
-    "Pfizer_rate":196026
+    "Sinopharm":14778907,
+    "Sinopharm_rate":3791,
+    "Sinovac":26484086,
+    "Sinovac_rate":1275,
+    "Pfizer":26712150,
+    "Pfizer_rate":222416
+  },
+  {
+    "date":"2022-02-09",
+    "AstraZeneca":46551521,
+    "AstraZeneca_rate":24151,
+    "Johnson & Johnson":7246,
+    "JnJ_rate":45,
+    "Sinopharm":14780908,
+    "Sinopharm_rate":2001,
+    "Sinovac":26484658,
+    "Sinovac_rate":572,
+    "Pfizer":26808210,
+    "Pfizer_rate":96060
   }
 ]
