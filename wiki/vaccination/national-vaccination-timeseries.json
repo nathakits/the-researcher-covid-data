@@ -3292,5 +3292,14 @@
     "second_dose":49626237,
     "third_dose":18304906,
     "total_doses":121322325
+  },
+  {
+    "date":"2022-02-25",
+    "daily_vaccinations":177036,
+    "data_anomaly":null,
+    "first_dose":53434169,
+    "second_dose":49652473,
+    "third_dose":18412719,
+    "total_doses":121499361
   }
 ]
